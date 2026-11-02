@@ -45,8 +45,8 @@ Git"
 
 [LinkedIn](https://www.linkedin.com/in/jeferson-silva-faria-a24a1b56/) &nbsp;|&nbsp;
 [Email](mailto:jefersonpie19@gmail.com) &nbsp;|&nbsp;
-[Resume](https://github.com/jefersonSF/jefersonSF/blob/main/docs/Resume-Jeferson-Silva-Faria-Systems-Analyst.pdf) &nbsp;|&nbsp;
-[Resume-pt-BR](https://github.com/jefersonSF/jefersonSF/blob/main/docs/Curriculo-Jeferson-Silva-Faria-Analista-de-Sistemas.pdf)
+[Resume](https://raw.githubusercontent.com/jefersonSF/jefersonSF/refs/heads/main/docs/Resume-Jeferson-Silva-Faria-Systems-Analyst.pdf) &nbsp;|&nbsp;
+[Resume-pt-BR](https://raw.githubusercontent.com/jefersonSF/jefersonSF/refs/heads/main/docs/Curriculo-Jeferson-Silva-Faria-Analista-de-Sistemas.pdf)
 
 ---
 *Technical English reading proficiency focused on documentation and technical contexts.*
