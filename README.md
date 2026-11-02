@@ -41,19 +41,10 @@ Git"
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Jeferson's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 📫 Connect with me
 
-[![LinkedIn]](https://www.linkedin.com/in/jeferson-silva-faria-a24a1b56/)
-[![Email]](mailto:jefersonpie19@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jeferson-silva-faria-a24a1b56/)
+[Email](mailto:jefersonpie19@gmail.com)
 
 ---
 *Technical English reading proficiency focused on documentation and technical contexts.*
