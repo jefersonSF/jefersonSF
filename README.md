@@ -9,22 +9,22 @@ A results-driven **Systems Analyst** with over **15 years of software developmen
 ### 🛠️ Tech Stack & Skills
 
 #### Backend Development
-![C#](https://shields.io)
-![.NET MVC](https://shields.io)
-![Entity Framework](https://shields.io)
-![Classic ASP](https://shields.io)
+<img src="https://jsdelivr.net" height="40" alt="C#" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt=".NET" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="Classic ASP" />
 
 #### Frontend & Mobile
-![Angular](https://shields.io)
-![Ionic](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![jQuery](https://shields.io)
+<img src="https://jsdelivr.net" height="40" alt="Angular" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="Ionic" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="TypeScript" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="JavaScript" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="jQuery" />
 
 #### Databases & DevOps
-![SQL Server](https://shields.io)
-![Azure DevOps](https://shields.io)
-![Git](https://shields.io)
+<img src="https://jsdelivr.net" height="40" alt="SQL Server" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="Azure" /> &nbsp;
+<img src="https://jsdelivr.net" height="40" alt="Git" />
+
 
 
 #### 🚀 Learning & Personal Projects
