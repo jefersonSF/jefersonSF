@@ -26,6 +26,7 @@ A results-driven **Systems Analyst** with over **15 years of software developmen
 ![Azure DevOps](https://shields.io)
 ![Git](https://shields.io)
 
+
 #### 🚀 Learning & Personal Projects
 * **Languages & Frameworks:** Python, C, .NET MAUI
 * **Databases:** MySQL, PostgreSQL, MariaDB, SQLite
