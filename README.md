@@ -9,20 +9,20 @@ A results-driven **Systems Analyst** with over **15 years of software developmen
 ### 🛠️ Tech Stack & Skills
 
 #### Backend Development
-C# &nbsp;
-.NET &nbsp;
+C# &nbsp;|&nbsp;
+.NET &nbsp;|&nbsp;
 Classic ASP
 
 #### Frontend & Mobile
-Angular &nbsp;
-Ionic &nbsp;
-TypeScript &nbsp;
-JavaScript &nbsp;
+Angular &nbsp;|&nbsp;
+Ionic &nbsp;|&nbsp;
+TypeScript &nbsp;|&nbsp;
+JavaScript &nbsp;|&nbsp;
 JQuery
 
 #### Databases & DevOps
-SQL Server &nbsp;
-Azure &nbsp;
+SQL Server &nbsp;|&nbsp;
+Azure &nbsp;|&nbsp;
 Git"
 
 
@@ -43,7 +43,7 @@ Git"
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/jeferson-silva-faria-a24a1b56/)
+[LinkedIn](https://www.linkedin.com/in/jeferson-silva-faria-a24a1b56/) &nbsp;|&nbsp;
 [Email](mailto:jefersonpie19@gmail.com)
 
 ---
