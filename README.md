@@ -9,21 +9,21 @@ A results-driven **Systems Analyst** with over **15 years of software developmen
 ### 🛠️ Tech Stack & Skills
 
 #### Backend Development
-<img src="https://jsdelivr.net" height="40" alt="C#" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt=".NET" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="Classic ASP" />
+C# &nbsp;
+.NET &nbsp;
+Classic ASP
 
 #### Frontend & Mobile
-<img src="https://jsdelivr.net" height="40" alt="Angular" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="Ionic" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="TypeScript" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="JavaScript" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="jQuery" />
+Angular &nbsp;
+Ionic &nbsp;
+TypeScript &nbsp;
+JavaScript &nbsp;
+JQuery
 
 #### Databases & DevOps
-<img src="https://jsdelivr.net" height="40" alt="SQL Server" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="Azure" /> &nbsp;
-<img src="https://jsdelivr.net" height="40" alt="Git" />
+SQL Server &nbsp;
+Azure &nbsp;
+Git"
 
 
 
@@ -52,8 +52,8 @@ A results-driven **Systems Analyst** with over **15 years of software developmen
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:jefersonpie19@gmail.com)
+[![LinkedIn]](https://www.linkedin.com/in/jeferson-silva-faria-a24a1b56/)
+[![Email]](mailto:jefersonpie19@gmail.com)
 
 ---
 *Technical English reading proficiency focused on documentation and technical contexts.*
